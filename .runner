@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "ENTER",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus13.actions.githubusercontent.com/gAvXyBdQ05fpqrPI0PYbH5VMFCesUtwRC1EmG7chReqXe3qANA/",
+  "gitHubUrl": "https://github.com/wijiandari1/automation-presensi",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
